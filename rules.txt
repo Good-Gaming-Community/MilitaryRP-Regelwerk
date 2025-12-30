@@ -1,0 +1,37 @@
+1 RDM
+Random Deathmatch ist nicht erlaubt.
+1.1 Es ist nicht gestattet, Personen ohne Grund zu töten.
+1.2 Beispiele für erlaubtes Verhalten:
+    - Verteidigung bei Angriff
+    - Notwehr
+1.3 Test!"§$
+
+2 VDM
+Vehicle Deathmatch ist verboten.
+2.1 Fahrzeuge dürfen nicht genutzt werden, um Spieler ohne Grund zu töten.
+2.2 Ausnahmen:
+    - Spieler greift deine Base an
+    - Notfall-Szenarien, die von Staff genehmigt wurden
+
+3 Meta-Gaming
+3.1 Informationen aus dem echten Leben dürfen nicht ins RP übertragen werden.
+3.2 Verwende keine externen Tools, um Informationen im Spiel zu sammeln.
+
+4 Power-Gaming
+4.1 Spieler dürfen ihre Charaktere nicht übermächtig handeln lassen.
+4.2 Exploits für Vorteil im RP sind verboten.
+
+5 Roleplay-Regeln
+5.1 Charaktere müssen realistisch agieren.
+5.2 Immer die Welt und andere Spieler respektieren.
+5.3 Staff-Entscheidungen sind bindend.
+
+6 Allgemeines
+6.1 Respektiere alle Spieler und Staff.
+6.2 Beleidigungen, Rassismus oder Hate-Speech führen zu sofortigen Strafen.
+6.3 Werbung für andere Server ist verboten.
+
+7 Server-Spezifisch
+7.1 Base-Regeln beachten.
+7.2 Event-Regeln gelten zusätzlich zu den Standardregeln.
+7.3 Team- bzw. Fraktionsregeln sind verpflichtend.
